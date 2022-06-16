@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suryansh-9
+- 👋 Hi, I’m @Trinity
 - 👀 I’m interested in Programming and Development
 - 🌱 I’m currently learning Python Advanced
 - 💞️ I’m looking to collaborate on projects based on programming/development
